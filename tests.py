@@ -2,6 +2,8 @@
 # author: Makenzie Brian
 # description: tests to confirm proper functionality
 
+import encode_text
+import decode_text
 
 # encode and decode text, ensure it comes out the same it went in
 

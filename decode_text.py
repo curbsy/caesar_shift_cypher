@@ -2,11 +2,11 @@
 # author: Makenzie Brian
 # description:
 
-def shift_right(key, filename):
+def shift_right(key, text):
 
     return text_sr
 
 
-def output_cypher():
+def visual_cypher_decode():
     # print alphabet and cypher lined up
-    print
+    print()
